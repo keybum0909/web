@@ -1,0 +1,172 @@
+#intro .jumbotron{
+    height: 70vh;
+    margin-bottom: 0px;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Noto Serif TC', serif;
+}
+
+p,a,input,label,textarea,span,ul,li{
+    font-family: 'Noto Serif TC', serif;
+}
+
+.btn{
+    background: lightgreen;
+    color: darkgreen;
+    padding: 5px 20px;
+    border-radius: 20px;
+    font-size: 15px;
+}
+
+.container{
+    margin-top: 50px;
+}
+
+#intro .jumbotron{
+    height: 70vh;
+}
+
+#intro .container{
+    position:relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+header nav img{
+    width: 150px;
+}
+
+header{
+    height: 100px;
+}
+
+header nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+header nav li{
+    padding:10px;
+    font-size: 20px;
+}
+
+header nav a{
+    color: black;
+}
+
+#product{
+    padding: 80px 0px;
+}
+
+#product h3{
+    text-align: center;
+    font-size: 70px;
+    margin-bottom: 70px;
+}
+
+#product .upper{
+    position: relative;
+}
+
+#product .innertext{
+    position: absolute;
+    bottom: 24px;
+    left: 40px;
+}
+
+#product .innertext h4{
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+#product .innertext span{
+    background: #ffffff;
+    padding: 3px 15px;
+    border-radius: 20px;
+    text-align: left;
+}
+
+#product img{
+    text-align: center;
+    max-width: 100%;
+    margin-bottom: 25px;
+}
+
+#product .list-group h4{
+    text-align: center;
+    font-size: 25px;
+}
+
+#product .innertext h4{
+    color: black;
+    text-align: center;
+}
+
+footer{
+    border-top: solid 1px #c9c9c9;
+    padding: 80px 0px;
+}
+
+footer h4{
+    font-size: 20px;
+}
+
+footer img{
+    margin-bottom: 20px;
+}
+
+footer .lead{
+    font-size: 10px;
+    margin-left: 7px;
+    line-height: 5px;
+}
+
+.fb, .shopee{
+    margin-right: 10px;
+    font-size: 10px;
+    float: left;
+}
+
+footer .shopee{
+    margin-left: 25px
+}
+
+footer ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+footer .line{
+    color: black;
+    margin-right: 50px;
+    line-height: 30px;
+    float: left;
+}
+
+footer .line1{
+    color: black;
+    margin-left: 105px;
+    line-height: 30px;
+}
+
+footer .line2{
+    color: black;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    line-height: 30px;
+    float: left;
+}
+
+footer .line3{
+    color: black;
+    text-align: left;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    line-height: 30px;
+}
+
